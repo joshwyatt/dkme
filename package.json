@@ -1,0 +1,26 @@
+{
+  "name": "dkme",
+  "version": "1.0.0",
+  "description": "Run the commonly needed `eval \"$(docker-machine env <machine-name>)\"`",
+  "main": "dkme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "dkme": "./dkme"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshwyatt/dkme.git"
+  },
+  "keywords": [
+    "docker-machine",
+    "env"
+  ],
+  "author": "joshwyatt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshwyatt/dkme/issues"
+  },
+  "homepage": "https://github.com/joshwyatt/dkme#readme"
+}
