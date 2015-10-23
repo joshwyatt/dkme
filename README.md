@@ -4,7 +4,7 @@ Run the commonly needed `eval "$(docker-machine env <machine-name>)"`
 
 ### Installation
 
-`npm install -g dkme`
+`curl https://raw.githubusercontent.com/joshwyatt/dkme/master/dkme >> ~/.bash_profile && source ~/.bash_profile`
 
 ### Usage
 
